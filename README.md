@@ -1,8 +1,6 @@
 XenAPIPlugin
 ============
- this project is referenced from https://github.com/Kakadu/xcp-xapi/blob/master/scripts/examples/python/XenAPIPlugin.py
- 
- 
+ this project is referenced from https://github.com/xapi-project/xen-api/blob/master/scripts/examples/python/XenAPIPlugin.py
  
  
 #Installation:
